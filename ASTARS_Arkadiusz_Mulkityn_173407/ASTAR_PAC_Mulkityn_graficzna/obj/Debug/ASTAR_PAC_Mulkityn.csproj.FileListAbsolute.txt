@@ -7,3 +7,12 @@ D:\ASTAR\ASTAR_PAC_Mulkityn\bin\Debug\ASTAR_PAC_Mulkityn.exe
 D:\ASTAR\ASTAR_PAC_Mulkityn\bin\Debug\ASTAR_PAC_Mulkityn.pdb
 D:\ASTAR\ASTAR_PAC_Mulkityn\obj\Debug\ASTAR_PAC_Mulkityn.exe
 D:\ASTAR\ASTAR_PAC_Mulkityn\obj\Debug\ASTAR_PAC_Mulkityn.pdb
+D:\ASTARS_Arkadiusz_Mulkityn_173407\ASTAR_PAC_Mulkityn_graficzna\bin\Debug\ASTAR_PAC_Mulkityn.exe.config
+D:\ASTARS_Arkadiusz_Mulkityn_173407\ASTAR_PAC_Mulkityn_graficzna\bin\Debug\ASTAR_PAC_Mulkityn.exe
+D:\ASTARS_Arkadiusz_Mulkityn_173407\ASTAR_PAC_Mulkityn_graficzna\bin\Debug\ASTAR_PAC_Mulkityn.pdb
+D:\ASTARS_Arkadiusz_Mulkityn_173407\ASTAR_PAC_Mulkityn_graficzna\obj\Debug\ASTAR_PAC_Mulkityn.csproj.AssemblyReference.cache
+D:\ASTARS_Arkadiusz_Mulkityn_173407\ASTAR_PAC_Mulkityn_graficzna\obj\Debug\ASTAR_PAC_Mulkityn.Properties.Resources.resources
+D:\ASTARS_Arkadiusz_Mulkityn_173407\ASTAR_PAC_Mulkityn_graficzna\obj\Debug\ASTAR_PAC_Mulkityn.csproj.GenerateResource.cache
+D:\ASTARS_Arkadiusz_Mulkityn_173407\ASTAR_PAC_Mulkityn_graficzna\obj\Debug\ASTAR_PAC_Mulkityn.csproj.CoreCompileInputs.cache
+D:\ASTARS_Arkadiusz_Mulkityn_173407\ASTAR_PAC_Mulkityn_graficzna\obj\Debug\ASTAR_PAC_Mulkityn.exe
+D:\ASTARS_Arkadiusz_Mulkityn_173407\ASTAR_PAC_Mulkityn_graficzna\obj\Debug\ASTAR_PAC_Mulkityn.pdb
