@@ -1,0 +1,9 @@
+D:\ASTAR\ASTAR_PAC_Mulkityn\obj\Debug\ASTAR_PAC_Mulkityn.csproj.AssemblyReference.cache
+D:\ASTAR\ASTAR_PAC_Mulkityn\obj\Debug\ASTAR_PAC_Mulkityn.Properties.Resources.resources
+D:\ASTAR\ASTAR_PAC_Mulkityn\obj\Debug\ASTAR_PAC_Mulkityn.csproj.GenerateResource.cache
+D:\ASTAR\ASTAR_PAC_Mulkityn\obj\Debug\ASTAR_PAC_Mulkityn.csproj.CoreCompileInputs.cache
+D:\ASTAR\ASTAR_PAC_Mulkityn\bin\Debug\ASTAR_PAC_Mulkityn.exe.config
+D:\ASTAR\ASTAR_PAC_Mulkityn\bin\Debug\ASTAR_PAC_Mulkityn.exe
+D:\ASTAR\ASTAR_PAC_Mulkityn\bin\Debug\ASTAR_PAC_Mulkityn.pdb
+D:\ASTAR\ASTAR_PAC_Mulkityn\obj\Debug\ASTAR_PAC_Mulkityn.exe
+D:\ASTAR\ASTAR_PAC_Mulkityn\obj\Debug\ASTAR_PAC_Mulkityn.pdb
