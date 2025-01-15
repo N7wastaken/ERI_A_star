@@ -1,3 +1,5 @@
+Obie wersje zostały napisane w języku c# przy użyciu Visual Studio Community.
+
 Wersja konsolowa:
 Do uruchomienia wersji konsolowej potrzeba .NET 8.0 SDK (v8.0.405), ktore mozna pobrac pod linkiem "https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.405-windows-x64-installer"
 
