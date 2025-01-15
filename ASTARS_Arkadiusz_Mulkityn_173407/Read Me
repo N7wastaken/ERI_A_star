@@ -1,0 +1,19 @@
+Wersja konsolowa:
+Do uruchomienia wersji konsolowej potrzeba .NET 8.0 SDK (v8.0.405), ktore mozna pobrac pod linkiem "https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.405-windows-x64-installer"
+
+Instrukcja:
+1. Odpakowac "ERI_A_star-main.zip" do katalogu "\ERI_A_star-main" na pulpicie.
+2. Wcisnąć kombinacje klawiszy "Win+R"
+3. Po wyskoczeniu okna wpisać w nim "cmd" i kliknać enter.
+4. W wierszu poleceń wpisac "cd C:\Users\%USERNAME%\Desktop\ERI_A_star-main\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\bin\Debug\net8.0".
+5. Po przejsciu do odpowiedniego katalogu wpisać "A-star-Mulkityn.exe".
+
+W katalogu znajdują sie pliki grid.txt wygenerowane za pomocą programu map_generator.exe lecz plik grid_no_path został zmodyfikowany aby nie można było znaleźć ścieżki.
+Aby sprawdzić działanie aplikacji za pomocą pliku grid_no_patch należy pozamieniać nazwy plików grid.
+
+Wersja graficzna:
+1. Odpakowac "ERI_A_star-main.zip" do katalogu "\ERI_A_star-main" na pulpicie.
+2. Wcisnąć kombinacje klawiszy "Win+R"
+3. Po wyskoczeniu okna wpisać w nim "cmd" i kliknać enter.
+4. W wierszu poleceń wpisac "C:\Users\%USERNAME%\Desktop\ERI_A_star-main\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\ASTAR_PAC_Mulkityn_wersja_graficzna.lnk" lub wejść w katalog "ERI_A_star-main\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407" i kliknąć skrót "ASTAR_PAC_Mulkityn_wersja_graficzna.lnk"
+Monity wyświetlające się po kliknięciu przycisków zawierają niezbędne informacje dotyczące obsługi aplikacji.
