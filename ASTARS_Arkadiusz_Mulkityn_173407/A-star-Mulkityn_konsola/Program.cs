@@ -144,7 +144,7 @@ class Program
         foreach ((int, int) punkt in otwarte)
         {
             double koszt = kosztF[punkt.Item1, punkt.Item2];
-            if (koszt < najmniejszyKoszt)
+            if (koszt <= najmniejszyKoszt)
             {
                 najnizszy = punkt;
                 najmniejszyKoszt = koszt;
@@ -163,8 +163,8 @@ class Program
 
         if (y < ROZMIAR - 1 && mapa[x, y + 1] != PRZESZKODA) sasiedzi.Add((x, y + 1));
         if (y > 0 && mapa[x, y - 1] != PRZESZKODA) sasiedzi.Add((x, y - 1));
-        if (x < ROZMIAR - 1 && mapa[x + 1, y] != PRZESZKODA) sasiedzi.Add((x + 1, y));
         if (x > 0 && mapa[x - 1, y] != PRZESZKODA) sasiedzi.Add((x - 1, y));
+        if (x < ROZMIAR - 1 && mapa[x + 1, y] != PRZESZKODA) sasiedzi.Add((x + 1, y));
         
         return sasiedzi;
     }

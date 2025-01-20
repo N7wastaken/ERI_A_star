@@ -40,3 +40,17 @@ D:\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\obj\Debug\net8.0\ref
 D:\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\obj\Debug\net8.0\A-star-Mulkityn.pdb
 D:\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\obj\Debug\net8.0\A-star-Mulkityn.genruntimeconfig.cache
 D:\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\obj\Debug\net8.0\ref\A-star-Mulkityn.dll
+D:\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\bin\Debug\net8.0\A-star-Mulkityn.exe
+D:\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\bin\Debug\net8.0\A-star-Mulkityn.deps.json
+D:\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\bin\Debug\net8.0\A-star-Mulkityn.runtimeconfig.json
+D:\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\bin\Debug\net8.0\A-star-Mulkityn.dll
+D:\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\bin\Debug\net8.0\A-star-Mulkityn.pdb
+D:\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\obj\Debug\net8.0\A-star-Mulkityn.GeneratedMSBuildEditorConfig.editorconfig
+D:\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\obj\Debug\net8.0\A-star-Mulkityn.AssemblyInfoInputs.cache
+D:\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\obj\Debug\net8.0\A-star-Mulkityn.AssemblyInfo.cs
+D:\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\obj\Debug\net8.0\A-star-Mulkityn.csproj.CoreCompileInputs.cache
+D:\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\obj\Debug\net8.0\A-star-Mulkityn.dll
+D:\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\obj\Debug\net8.0\refint\A-star-Mulkityn.dll
+D:\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\obj\Debug\net8.0\A-star-Mulkityn.pdb
+D:\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\obj\Debug\net8.0\A-star-Mulkityn.genruntimeconfig.cache
+D:\ERI_A_star-main\ASTARS_Arkadiusz_Mulkityn_173407\A-star-Mulkityn_konsola\obj\Debug\net8.0\ref\A-star-Mulkityn.dll

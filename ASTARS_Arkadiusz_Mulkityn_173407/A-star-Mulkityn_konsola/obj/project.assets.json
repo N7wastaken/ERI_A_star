@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASTARS_Arkadiusz_Mulkityn_173407\\A-star-Mulkityn_konsola\\A-star-Mulkityn.csproj",
+      "projectUniqueName": "D:\\ERI_A_star-main\\ASTARS_Arkadiusz_Mulkityn_173407\\A-star-Mulkityn_konsola\\A-star-Mulkityn.csproj",
       "projectName": "A-star-Mulkityn",
-      "projectPath": "D:\\ASTARS_Arkadiusz_Mulkityn_173407\\A-star-Mulkityn_konsola\\A-star-Mulkityn.csproj",
+      "projectPath": "D:\\ERI_A_star-main\\ASTARS_Arkadiusz_Mulkityn_173407\\A-star-Mulkityn_konsola\\A-star-Mulkityn.csproj",
       "packagesPath": "C:\\Users\\arekm\\.nuget\\packages\\",
-      "outputPath": "D:\\ASTARS_Arkadiusz_Mulkityn_173407\\A-star-Mulkityn_konsola\\obj\\",
+      "outputPath": "D:\\ERI_A_star-main\\ASTARS_Arkadiusz_Mulkityn_173407\\A-star-Mulkityn_konsola\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
